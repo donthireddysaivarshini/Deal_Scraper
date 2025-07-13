@@ -1,0 +1,4 @@
+# Core Packages
+requests==2.31.0
+beautifulsoup4==4.12.2
+streamlit==1.29.0
