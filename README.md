@@ -96,9 +96,3 @@ deals-scraper/
 
 ---
 
-This **README.md** is designed to:  
-✔ **Explain clearly** (even for beginners)  
-✔ **Motivate users** (show the project’s value)  
-✔ **Encourage contributions** (open-source friendly)  
-
-**Want a different style?** Let me know! 😊
