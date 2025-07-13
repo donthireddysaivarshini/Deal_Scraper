@@ -81,7 +81,6 @@ deals-scraper/
 - ⭐ **Star the repo** (helps others find it!)   
 - 💡 **Suggest features** – PRs welcome!  
 
----
 
 ---
 
